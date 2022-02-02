@@ -7,7 +7,7 @@
 
 
 §7Created by:
-§f			Markus Persson
+§f			Hatsune Miku
 
 §7Game design, programming and graphics:
 §f			Markus Persson
