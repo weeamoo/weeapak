@@ -10,7 +10,7 @@
 §f			Hatsune Miku
 
 §7Game design, programming and graphics:
-§f			Markus Persson
+§f			Hatsune Miku
 §f			Jens Bergensten
 §f			Nathan Adams
 
@@ -31,7 +31,7 @@
 §f			Daniel Frisk
 §f			Leonard Axelsson
 §f			Jens Bergensten
-§f			Markus Persson
+§f			Hatsune Miku
 
 §7Logo and promotional artwork:
 §f			Markus Toivonen
@@ -364,6 +364,9 @@
 [C]§eMojang Alumni
 [C]§f===========
 
+§Queen
+§f          Hatsune Miku
+
 §7Chief Executive Officers
 §f          Carl Manneh
 
@@ -486,6 +489,7 @@
 [C]§f============
 [C]§eSpecial Thanks
 [C]§f============
+§f          Hatsune Miku
 §f          Daniel Brynolf
 §f          Pontus Hammarberg
 
